@@ -1,2 +1,7 @@
 i am amir
-javascript
+* javascript
+* java
+* html
+* git
+* another
+* rebase
